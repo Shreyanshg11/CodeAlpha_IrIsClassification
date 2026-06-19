@@ -72,5 +72,5 @@ jupyter notebook iris_classification.ipynb
 4. Run all cells sequentially
 
 ## Author
-**Shreyansh Gupta**
-B.Tech (CSDS) — Galgotias College of Engineering & Technology
+Shreyansh Gupta B.Tech (CSDS) 
+Galgotias College of Engineering & Technology
